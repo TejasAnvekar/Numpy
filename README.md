@@ -24,9 +24,11 @@ Numpy basics
 
 11.[Full_Numpy_Tutorial_for_DeepLearners.ipynb](https://github.com/TejasAnvekar/Numpy/blob/master/Full_Numpy_Tutorial_for_DeepLearners.ipynb)<br>
 
-11.[Latent Dirichlet Allocation.ipynb](https://github.com/TejasAnvekar/Numpy/blob/master/Latent Dirichlet Allocation.ipynb)<br>
+11.[Latent_Dirichlet_Allocation.ipynb](https://github.com/TejasAnvekar/Numpy/blob/master/Latent_Dirichlet_Allocation.ipynb)<br>
 
 11.[numpy.ipynb](https://github.com/TejasAnvekar/Numpy/blob/master/numpy.ipynb)<br>
+
+11.[4. Numpy.ipynb](https://github.com/TejasAnvekar/Numpy/blob/master/4. Numpy.ipynb)<br>
 
 11.[SciPy Numpy Extended Lectures Part 1 - Numpy Array Object.ipynb](https://github.com/TejasAnvekar/Numpy/blob/master/SciPy Numpy Extended Lectures Part 1 - Numpy Array Object.ipynb)<br>
 
