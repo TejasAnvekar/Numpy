@@ -24,14 +24,12 @@ Numpy basics
 
 11.[Full_Numpy_Tutorial_for_DeepLearners.ipynb](https://github.com/TejasAnvekar/Numpy/blob/master/Full_Numpy_Tutorial_for_DeepLearners.ipynb)<br>
 
-11.[Latent_Dirichlet_Allocation.ipynb](https://github.com/TejasAnvekar/Numpy/blob/master/Latent_Dirichlet_Allocation.ipynb)<br>
-
 11.[numpy.ipynb](https://github.com/TejasAnvekar/Numpy/blob/master/numpy.ipynb)<br>
 
-11.[4. Numpy.ipynb](https://github.com/TejasAnvekar/Numpy/blob/master/4. Numpy.ipynb)<br>
+11.[4.Numpy.ipynb](https://github.com/TejasAnvekar/Numpy/blob/master/4.Numpy.ipynb)<br>
 
-11.[SciPy Numpy Extended Lectures Part 1 - Numpy Array Object.ipynb](https://github.com/TejasAnvekar/Numpy/blob/master/SciPy Numpy Extended Lectures Part 1 - Numpy Array Object.ipynb)<br>
+11.[SciPy_Numpy_Extended_Lectures_Part_1-Numpy_Array_Object.ipynb](https://github.com/TejasAnvekar/Numpy/blob/master/SciPy_Numpy_Extended_Lectures_Part_1-Numpy_Array_Object.ipynb)<br>
 
-11.[SciPy Numpy Extended Lectures Part 2 - Numerical operations on arrays.ipynb](https://github.com/TejasAnvekar/Numpy/blob/master/SciPy Numpy Extended Lectures Part 2 - Numerical operations on arrays.ipynb)<br>
+11.[SciPy_Numpy_Extended_Lectures_Part_2-Numerical_operations_on_arrays.ipynb](https://github.com/TejasAnvekar/Numpy/blob/master/SciPy_Numpy_Extended_Lectures_Part_2-Numerical_operations_on_arrays.ipynb)<br>
 
-11.[SciPy Numpy Extended Lectures Part 3 - Broadcasting, Shape Manipulation and Sorting Data.ipynb](https://github.com/TejasAnvekar/Numpy/blob/master/SciPy Numpy Extended Lectures Part 3 - Broadcasting, Shape Manipulation and Sorting Data.ipynb)<br>
+11.[SciPy_Numpy_Extended_Lectures_Part_3-Broadcasting,Shape_Manipulation_and_Sorting_Data.ipynb](https://github.com/TejasAnvekar/Numpy/blob/master/SciPy_Numpy_Extended_Lectures_Part_3-Broadcasting,Shape_Manipulation_and_Sorting_Data.ipynb)<br>
