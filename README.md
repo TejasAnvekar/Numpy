@@ -1,5 +1,7 @@
 # Numpy
 Numpy basics <br>
+*This Repository codes are available in notebook [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do) by Jake VanderPlasavailable*
+<br>
 ## Table of Content
 |S.No|File Name /Link|Description|
 |:---|:--- |---|
